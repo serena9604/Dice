@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AdvancedDiceNotation
+comment1.params=myDice
+comment1.target=AdvancedDiceNotation(java.lang.String)
+comment1.text=\ Constructor\r\n\ \ Precondition\:\ myDice\ represents\ a\ valid\ Advanced\r\n\ \ Dice\ Notation\ Statement\r\n
+comment2.params=myDice
+comment2.target=void\ parse(java.lang.String)
+comment2.text=\ The\ parse\ method\ reads\ the\ String\ parameter\ myDice\ and\ fills\ the\ \ \ \r\n\ \ sdnList\ with\ valid\ SimpleDiceNotation\ objects\ accordingly.\ \ Also\ \r\n\ \ assigns\ a\ value\ to\ mod\ if\ necessary\ (leaves\ it\ as\ zero\ otherwise).\r\n\ \ Precondition\:\ myDice\ represents\ a\ valid\ Advanced\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Dice\ Notation\ Statement\r\n
+comment3.params=
+comment3.target=int\ roll()
+numComments=4

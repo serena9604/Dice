@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SimpleDiceNotation
+comment1.params=
+comment1.target=SimpleDiceNotation()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SimpleDiceNotation\r\n
+comment2.params=s
+comment2.target=SimpleDiceNotation(java.lang.String)
+comment3.params=s
+comment3.target=SimpleDiceNotation(SimpleDiceNotation)
+comment4.params=
+comment4.target=int\ roll()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=s
+comment6.target=boolean\ equals(SimpleDiceNotation)
+numComments=7
